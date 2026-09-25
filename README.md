@@ -1,87 +1,112 @@
-# Athlete Training Recovery Analytics(EXCEL)
+# Athlete_Training_Recovery_Analytics_EXCEL
+
 Excel and Power Query dashboard analyzing athlete performance, recovery, fatigue, sleep quality, nutrition, and injury risk.
 
-# Athlete Training & Recovery Analytics Dashboard
 
-## Project Overview
+# 🏃 Athlete Training & Recovery Analytics Dashboard
 
-This Excel-based analytics project provides insights into athlete performance, recovery, fatigue levels, sleep quality, nutrition scores, and injury risk across multiple sports.
+## 📌 Project Overview
 
-The dashboard was developed using Excel and Power Query to clean, transform, analyze, and visualize athlete wellness data.
+This project is an Excel-based Athlete Training & Recovery Analytics Dashboard designed to analyze athlete performance, wellness indicators, recovery patterns, fatigue levels, and injury risk across multiple sports.
 
-## Objectives
-
-The goal of this project was to analyze athlete health and performance indicators to identify relationships between recovery habits, training intensity, fatigue, and overall performance.
-
-## Data Preparation
-
-Tools Used:
-- Microsoft Excel
-- Power Query
-
-Data preparation processes included:
-- Data cleaning
-- Data transformation
-- Removing inconsistencies
-- Creating calculated metrics
-- Preparing data for dashboard analysis
-
-## Dashboard Analysis
-
-The dashboard includes:
-
-### Athlete Performance
-- Average performance by sport
-- Monthly performance trends
-- Performance comparison across categories
-
-### Recovery & Wellness
-- Average recovery index
-- Sleep quality analysis
-- Nutrition score evaluation
-- Training intensity recovery patterns
-
-### Injury Risk Analysis
-- Athlete distribution by injury risk level
-- Risk comparison across sports
-- Identification of higher-risk groups
-
-### Fatigue Monitoring
-- Average fatigue level by sport
-- Training workload analysis
-
-## Key Insights
-
-1. Tennis athletes showed strong performance outcomes while maintaining controlled fatigue levels.
-
-2. Most athletes were classified under lower injury risk categories, suggesting effective recovery patterns.
-
-3. Athletes with stronger sleep quality demonstrated better performance results.
-
-4. Sports with higher fatigue levels require improved workload and recovery management.
-
-5. Performance remained relatively consistent across monthly periods.
-
-## Recommendations
-
-- Improve recovery monitoring for athletes experiencing higher fatigue levels.
-- Include sleep tracking as part of athlete performance management.
-- Balance training intensity with adequate recovery periods.
-- Monitor injury risk indicators regularly.
-- Apply effective recovery strategies across different sports.
+The dashboard transforms raw athlete data into meaningful insights using Excel analysis, Power Query data preparation, interactive charts, KPI cards, and filtering features to support data-driven training decisions.
 
 
-## Tools & Skills Demonstrated
+# 🎯 Objectives
 
-- Excel Dashboard Development
-- Power Query Data Cleaning
-- Data Transformation
-- Data Analysis
-- Data Visualization
-- Business Insights Generation
-
-
-## Dashboard 
+* Analyze athlete performance across different sports.
+* Evaluate the relationship between recovery, sleep quality, and performance.
+* Monitor fatigue levels and training intensity patterns.
+* Identify athletes with different injury risk levels.
+* Compare performance trends across monthly periods.
+* Generate actionable recommendations for athlete wellness management.
 
 
-<img width="1461" height="648" alt="Athlete_Training_Recovery_Tracker DASHBOARD" src="https://github.com/user-attachments/assets/32289746-6f08-4a28-94ef-11e01c41eb83" />
+# 🛠️ Tools & Features
+
+* Microsoft Excel
+* Power Query
+* Data Cleaning
+* Data Transformation
+* Pivot Tables
+* Pivot Charts
+* KPI Cards
+* Interactive Filters
+* Dashboard Design
+* Data Visualization
+
+
+# 📊 Key Performance Indicators (KPIs)
+
+* Total Athletes: 1,000
+* Average Sleep Hours: 7
+* Average Nutrition Score: 75
+* Average Recovery Index: 70
+* Average Fatigue Level: 6
+
+
+# 📈 Dashboard Highlights
+
+* Average Performance by Sport
+* Athlete Distribution by Injury Risk
+* Average Fatigue Level by Sport
+* Recovery Analysis by Training Intensity
+* Performance by Sleep Category
+* Monthly Performance Trends
+* Injury Risk Monitoring
+
+
+# 🔎 Key Insights
+
+* Tennis athletes demonstrated strong performance outcomes while maintaining controlled fatigue levels.
+
+* Most athletes were classified under lower injury risk categories, indicating effective recovery patterns.
+
+* Athletes with better sleep quality showed stronger performance results.
+
+* Sports with higher fatigue levels require improved workload and recovery management.
+
+* Monthly performance remained relatively stable throughout the year.
+
+
+# 💡 Recommendations
+
+* Improve recovery monitoring for athletes experiencing higher fatigue levels.
+
+* Integrate structured sleep tracking into athlete performance programs.
+
+* Balance training intensity with adequate recovery periods.
+
+* Continue monitoring injury risk indicators across athlete groups.
+
+* Apply successful recovery strategies across different sports.
+
+
+
+# 📷 Dashboard 
+
+<img width="1461" height="648" alt="Athlete_Training_Recovery_Tracker DASHBOARD" src="https://github.com/user-attachments/assets/fefa36e9-a5a3-4870-abb7-9c91d75b839e" />
+
+
+# 🚀 Skills Demonstrated
+
+* Data Analysis
+* Data Cleaning
+* Power Query Transformation
+* Excel Dashboard Development
+* Data Visualization
+* KPI Reporting
+* Analytical Storytelling
+* Business Insight Generation
+
+
+# 👤 Author
+
+Samuel Akpobor Kingsley (MrKing-1)
+
+Open to opportunities in Data Analytics, Business Intelligence, and Financial Data Analysis.
+
+⭐ Don't forget to star this repository if you found it useful!
+
+
+This will make all your repositories have a consistent professional portfolio style. Your Sales Analysis project becomes the standard format, and we adapt every future project (Agriculture, Stock Analysis, Athlete Recovery, etc.) into this same structure.
