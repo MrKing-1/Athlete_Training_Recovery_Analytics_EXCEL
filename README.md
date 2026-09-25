@@ -1,6 +1,5 @@
-# Athlete_Training_Recovery_Analytics_EXCEL
+# Athlete Training Recovery Analytics(EXCEL)
 Excel and Power Query dashboard analyzing athlete performance, recovery, fatigue, sleep quality, nutrition, and injury risk.
-
 
 # Athlete Training & Recovery Analytics Dashboard
 
